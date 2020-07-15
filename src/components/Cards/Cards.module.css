@@ -4,7 +4,8 @@
 
 .card{
     margin: 2% 1% !important;
-    padding: 0 5px;
+    padding: 0 5px !important;
+    
     
 
 }
@@ -19,4 +20,12 @@
 
 .deaths{
     border-bottom: 15px solid rgba(255, 0, 0, 0.5)
+}
+
+@media (max-width: 770px){
+    .card{
+        margin: 2% 0 !important;
+
+    }
+
 }
