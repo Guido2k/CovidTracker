@@ -1,5 +1,6 @@
 body {
     background-color: rgba(210, 245, 255, 0.26);
+    background-image: url('./images/corona2bg.png');
 }
 
 .container{
@@ -7,6 +8,7 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    
 }
 
 .image{
